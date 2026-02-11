@@ -5,7 +5,8 @@ Data Analyst | Decision Systems | Operations & Financial Analytics
 </p>
 
 <p align="center">
-📍 Kerala, India | 📧 ashwinbasil176@gmail.com | 📞 +91 9496524829 | 🔗 LinkedIn
+📍 Kerala, India | 📧<a href="mailto:ashwinbasil176@gmail.com">ashwinbasil176@gmail.com</a>| 📞 +91 9496524829 | 🔗 <a href="https://www.linkedin.com/in/ashwin176">LinkedIn</a>
+  <p align="center">
 </p>
 
 ---
@@ -30,11 +31,23 @@ Modular backtesting framework applying statistical testing and performance analy
 
 ## Tech Stack
 
+### Languages and Data
+
 Python, SQL, Pandas, NumPy, Scikit-learn
+
+### Visualisation and BI
+
 Power BI, Tableau, Advanced Excel, VBA
-Time Series Forecasting, ARIMA, LSTM, XGBoost
+
+### Modelling and Analytics
+
+Time Series Forecasting, ARIMA, LSTM,
 A/B Testing, Statistical Modelling, Operational Analytics
-ETL Pipelines, Data Quality Frameworks
+
+### Data Engineering
+
+ETL Pipelines, Data Quality Frameworks, Validation Rules
+
 
 ---
 
