@@ -10,20 +10,20 @@ Data Analyst | Decision Systems | Operations & Financial Analytics
 
 ---
 
-## Positioning
+## About
 
-I build analytics-driven decision systems focused on cost optimisation, operational strategy, and forecasting reliability. My work combines SQL-heavy data architecture with statistical modelling to support executive decision making.
+I design analytics systems that support operational strategy, cost optimisation, and executive decision making. My work focuses on translating complex operational data into structured frameworks that improve efficiency, forecasting accuracy, and business performance.
 
 ---
 
 ## Featured Work
 
 **Data Quality & Governance Framework**
-Validation pipelines with audit logging and rule-based checks designed around enterprise governance standards.
+Enterprise-style validation pipelines with audit logging and rule-based controls, designed to mirror real-world governance and compliance workflows.
 👉 https://github.com/ashwinbasil/Workforce-Data-Quality-Governance-Analysis
 
 **Mean Reversion Trading Backtester**
-Research-focused backtesting system with hypothesis testing, performance metrics, and modular architecture.
+Modular backtesting framework applying statistical testing and performance analytics to evaluate trading hypotheses and risk tradeoffs.
 👉 https://github.com/ashwinbasil/mean-reversion-signal-backtest
 
 ---
@@ -40,4 +40,5 @@ ETL Pipelines, Data Quality Frameworks
 
 ## Current Direction
 
-Building decision-focused analytics systems aligned with strategy, operations, and financial optimisation. Interested in roles across consulting, strategy, and data-driven transformation.
+Designing decision-focused analytics systems aligned with consulting, strategy, and operational transformation. Building repositories that demonstrate scalable data architecture, governance thinking, and measurable business impact.
+
