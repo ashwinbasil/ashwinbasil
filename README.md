@@ -22,7 +22,7 @@ Background in operations and financial analytics. Currently building portfolio p
 ## Featured Projects
 
 ### NYC Taxi Analytics Pipeline
-End-to-end SQL pipeline on 2.7 million real NYC TLC trips. DuckDB extracts parquet data from S3, MySQL stores and models it, Tableau Public delivers the dashboards. Five analytical views covering revenue, demand patterns, zone performance, payment behaviour, and statistical anomaly detection.
+End-to-end SQL pipeline on 5.4 million real NYC TLC trips. DuckDB extracts parquet data from S3, MySQL stores and models it, Tableau Public delivers the dashboards. Five analytical views covering revenue, demand patterns, zone performance, payment behaviour, and statistical anomaly detection.
 
 👉 https://github.com/ashwinbasil/nyc-taxi-analytics
 
