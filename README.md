@@ -56,7 +56,7 @@ Modular backtesting framework applying statistical testing and performance analy
 
 **Analytics:** Time series forecasting, ARIMA, LSTM, A/B testing, statistical modelling, operational analytics
 
-**Visualisation:** Tableau, Excel, VBA
+**Visualisation:** Tableau, Excel, VBA, Power BI
 
 ---
 
