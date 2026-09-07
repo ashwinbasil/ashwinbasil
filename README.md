@@ -22,7 +22,7 @@ Strong technical stack in SQL, Python, and Tableau. Currently open to Operations
 ## Featured Projects
 
 ### NYC Taxi Operations & Revenue Analytics Platform
-End-to-end SQL pipeline processing over 100M+ real NYC TLC trips. Built automated ETL pipelines and Tableau KPI dashboards, delivering revenue performance reports and demand segmentation models across time, geography, and service type.
+End-to-end SQL pipeline processing over 5M+ real NYC TLC trips. Built automated ETL pipelines and Tableau KPI dashboards, delivering revenue performance reports and demand segmentation models across time, geography, and service type.
 
 👉 https://github.com/ashwinbasil/nyc-taxi-analytics
 
@@ -40,7 +40,7 @@ Developed a data pipeline to analyze Formula 1 telemetry and race strategies acr
 ---
 
 ### Workforce Data Quality & Governance Analysis
-Validated 10,000+ workforce records using SQL and Python, eliminating data quality errors. Delivered a reusable governance framework that significantly improved downstream MIS reporting accuracy.
+Validated 3,000+ workforce records using SQL and Python, eliminating data quality errors. Delivered a reusable governance framework that significantly improved downstream MIS reporting accuracy.
 
 👉 https://github.com/ashwinbasil/Workforce-Data-Quality-Governance-Analysis
 
