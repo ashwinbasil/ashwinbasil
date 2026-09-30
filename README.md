@@ -6,7 +6,7 @@ Operations Analyst — Reporting, Reconciliation & Process Improvement
 📍 Kerala, India &nbsp;|&nbsp;
 📧 <a href="mailto:ashwinbasil176@gmail.com">ashwinbasil176@gmail.com</a> &nbsp;|&nbsp;
 📞 +91 9496524829 &nbsp;|&nbsp;
-🔗 <a href="https://www.linkedin.com/in/ashwin176">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/ashwin176">LinkedIn</a> &nbsp;|&nbsp;
 🌐 <a href="https://ashwinbasil.vercel.app">Portfolio</a>
 </p>
 
