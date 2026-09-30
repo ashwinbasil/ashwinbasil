@@ -7,6 +7,7 @@ Operations Analyst — Reporting, Reconciliation & Process Improvement
 📧 <a href="mailto:ashwinbasil176@gmail.com">ashwinbasil176@gmail.com</a> &nbsp;|&nbsp;
 📞 +91 9496524829 &nbsp;|&nbsp;
 🔗 <a href="https://www.linkedin.com/in/ashwin176">LinkedIn</a>
+🌐 <a href="https://ashwinbasil.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -20,6 +21,15 @@ Strong technical stack in SQL, Python, and Tableau. Currently open to Operations
 ---
 
 ## Featured Projects
+
+### NYC 311 Ops Bottleneck Diagnosis
+Built a dbt-tested pipeline on 27M+ real NYC 311 service request records to diagnose agency capacity risk. Identified a COVID-driven acute capacity failure and a chronic capacity issue that was later resolved, surfaced through window-function trend analysis in BigQuery and visualized in Power BI.
+
+👉 https://github.com/ashwinbasil/nyc311-ops-analysis
+
+**Stack:** SQL, dbt, BigQuery, Power BI
+
+---
 
 ### NYC Taxi Operations & Revenue Analytics Platform
 End-to-end SQL pipeline processing over 5M+ real NYC TLC trips. Built automated ETL pipelines and Tableau KPI dashboards, delivering revenue performance reports and demand segmentation models across time, geography, and service type.
